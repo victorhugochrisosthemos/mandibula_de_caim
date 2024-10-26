@@ -6,7 +6,4 @@
 
 ## Artigos interessantes para insights
 - [Calculando similaridade entre strings](https://medium.com/@everton.tomalok/calculando-similaridades-entre-strings-ebbea21d5b7a)
-  - TF-IDF
-  - BERT
-  - Cosine Similarity
-  - GPT
+- [Similaridade entre textos com cálculo do cosseno](https://www.youtube.com/watch?v=TZXb_UoB-WY)
